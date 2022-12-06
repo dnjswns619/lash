@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.box,
+.box1,
+.box2 {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.box {
+  height: 950px;
+  z-index: 5;
+}
+.box1 {
+  height: 1850px;
+  z-index: 4;
+}
+.box2 {
+  height: 2750px;
+  z-index: 3;
+}
+.top {
+  height: 950px;
+  background-color: blueviolet;
+}
+.middle {
+  position: sticky;
+  top: 0;
+  height: 850px;
+  background-color: orange;
+}
+.bottom {
+  position: sticky;
+  top: 0;
+  height: 850px;
+  background-color: cornflowerblue;
+}
