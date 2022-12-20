@@ -49,7 +49,7 @@
       //5
       values: [
         "../images/안경테/b42a6ba46f4079bcd164b3188beb76b0.jpg",
-        "../images/안경테/e78e8099ed2d39994535e01502fdd81e (1).jpg",
+        "../images/안경테/e78e8099ed2d39994535e01502fdd81e.jpg",
         "../images/안경테/4fe17a57b2d2097ec26c19ac5ecd4263.jpg",
         "../images/안경테/27662598a9ce0f08abcb670dd6d836d0.jpg"
       ]
@@ -57,7 +57,7 @@
     {
       //6
       values: [
-        "../images/안경테/ee4c766cd927d8bb93efa827206f9794 (1).jpg",
+        "../images/안경테/ee4c766cd927d8bb93efa827206f9794.jpg",
         "../images/안경테/a625bb3762beee6a9f4894eaec3285e0.jpg",
         "../images/안경테/a5d053c39446a65d3f04dedc1222ce2f.jpg",
         "../images/안경테/ea9d79df1b010b26f281317910ca9eb0.jpg",
@@ -69,7 +69,7 @@
       values: [
         "../images/안경테/ad8b4fffd874b10be971cb4800ebe12b.jpg",
         "../images/안경테/fde308cad7b93c6400364524aa871683.jpg",
-        "../images/안경테/d9d2ecf60376917364de5bb97f174502 (1).jpg",
+        "../images/안경테/d9d2ecf60376917364de5bb97f174502.jpg",
         "../images/안경테/94af0a259bb7e71000540fb9f58a44cd.jpg",
         "../images/안경테/fd2d14c308082dc0db8aaf02c45eecb7.jpg"
       ]
@@ -77,8 +77,8 @@
     {
       //8
       values: [
-        "../images/안경테/e357bb0f99f7fa1db24359876c9a6cc0 (1).jpg",
-        "../images/안경테/e357bb0f99f7fa1db24359876c9a6cc0 (2).jpg",
+        "../images/안경테/e357bb0f99f7fa1db24359876c9a6cc0.jpg",
+        "../images/안경테/e357bb0f99f7fa1db24359876c9a6cc0.jpg",
         "../images/안경테/63417cae60ea9fafbe7836345af9fb76.jpg",
         "../images/안경테/f8ede178f37318dc78192fc6be7cc0e2.jpg",
         "../images/안경테/f52c84c2b7b3df9954667cb0afda8977.jpg"
@@ -90,7 +90,7 @@
         "../images/안경테/91c94cdcf42d2be0d38114a67d5612ec.jpg",
         "../images/안경테/e2000aca6021b9d155f06945279a5c47.jpg",
         "../images/안경테/545bad096e89e3ca2690c83a58d87e27.jpg",
-        "../images/안경테/02bbf4ece95539609d16213edec59595 (1).jpg",
+        "../images/안경테/02bbf4ece95539609d16213edec59595.jpg",
         "../images/안경테/120716bb6d5880d09fc39c200ae61e52.jpg"
       ]
     },
@@ -101,7 +101,7 @@
         "../images/안경테/d1a159d24b67888f68ecba253f966624.jpg",
         "../images/안경테/07ac49a3e0460746a510174c9c8f11bd.jpg",
         "../images/안경테/3d56778621662305c2ec5eb205d948b2.jpg",
-        "../images/안경테/e378b32de8bcf27cf05654f0a50daeca (1).jpg"
+        "../images/안경테/e378b32de8bcf27cf05654f0a50daeca.jpg"
       ]
     },
     {
@@ -112,7 +112,7 @@
         "../images/안경테/c4553610fea9e19eec0efee235997593.jpg",
         "../images/안경테/19975fa3ae07e597c8ce12402b67434d.jpg",
         "../images/안경테/b2f8688247731e210c40d140d9e1b41c.jpg",
-        "../images/안경테/88f62193c04826880a058eeaa23085e0 (1).jpg",
+        "../images/안경테/88f62193c04826880a058eeaa23085e0.jpg",
         "../images/안경테/3c4fc36600cf89d99c32b298d641d4bf.jpg",
       ]
     },
@@ -121,7 +121,7 @@
       values: [
         "../images/안경테/49663b8fb02f174b5db5e3d10b3ae5de.jpg",
         "../images/안경테/467fcb212e3cca3ccc08bbf170575db6.jpg",
-        "../images/안경테/000b9583cf1b3c7c4071d2262c01382b (1).jpg",
+        "../images/안경테/000b9583cf1b3c7c4071d2262c01382b.jpg",
         "../images/안경테/13b2f7f68517be6061338bae9f45d8b7.jpg"
       ]
     },
@@ -129,7 +129,7 @@
       //13
       values: [
         "../images/안경테/c8a3158670350cb308fcab2517373902.jpg",
-        "../images/안경테/e89f785eb76cb74f614f9c783bd321af (1).jpg",
+        "../images/안경테/e89f785eb76cb74f614f9c783bd321af.jpg",
         "../images/안경테/483c3750454200fde8ef1bb7abe098b7.jpg",
         "../images/안경테/2c58bb607e47561e809228756236c232.jpg"
       ]
@@ -139,7 +139,7 @@
       values: [
         "../images/안경테/c41b320a238c13dcae4033eb54ce9bae.jpg",
         "../images/안경테/13e7e1ca2ccb3ada8e917dd3de50cbeb.jpg",
-        "../images/안경테/f9969841cb7d606d00552c323a9ece36 (1).jpg",
+        "../images/안경테/f9969841cb7d606d00552c323a9ece36.jpg",
         "../images/안경테/ddaab134de3b1da846c7d3b717406f80.jpg"
       ]
     },
@@ -149,7 +149,7 @@
         "../images/안경테/d6cc3def8cbddd9e7f0d8a6810441786.jpg",
         "../images/안경테/df252fd72d2eeb92148bb1bd7edf22dc.jpg",
         "../images/안경테/48ad9a341fca79d5f671e6b1684153c6.jpg",
-        "../images/안경테/5ab54a4260a0e85b7d3e18b554046406 (1).jpg",
+        "../images/안경테/5ab54a4260a0e85b7d3e18b554046406.jpg",
         "../images/안경테/f47f01d11832aec8ee2e58f54fbf4727.jpg"
       ]
     },
@@ -159,7 +159,7 @@
         "../images/안경테/96418b8350207f7f638d02db6ff5143f.jpg",
         "../images/안경테/1db8a48ead435a0a5aa3e583feb4c435.jpg",
         "../images/안경테/a61d1d7b3be7eec8c4cc6e8a388fdad8.jpg",
-        "../images/안경테/889ecc922c03c5c9c15f3dd9b4ba9455 (1).jpg"
+        "../images/안경테/889ecc922c03c5c9c15f3dd9b4ba9455.jpg"
       ]
     },
     {
@@ -167,14 +167,14 @@
       values: [
         "../images/안경테/84474b2241ce3a34c4cd8d7f1640f66d.jpg",
         "../images/안경테/5e19e73de1721e4d4fa9fe71c632d054.jpg",
-        "../images/안경테/d149e85d720cee9d9a46cc3d9c530992 (1).jpg",
+        "../images/안경테/d149e85d720cee9d9a46cc3d9c530992.jpg",
         "../images/안경테/5398ef62e2e65f7c0be8b91af7145c31.jpg"
       ]
     },
     {
       //18
       values: [
-        "../images/안경테/d210a138dcec4d7f4e6182c25c5bd936 (1).jpg",
+        "../images/안경테/d210a138dcec4d7f4e6182c25c5bd936.jpg",
         "../images/안경테/aa4c22723f41bc789837980a79362b38.jpg"
       ]
     }

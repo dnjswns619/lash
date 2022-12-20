@@ -28,55 +28,43 @@
     border: 1px solid #000;
   }
 }
-
 .glasses {
-  &__inner {
-    padding: 0 5px;
-  }
   &__count {
     display: block;
     margin: 0.5rem 0;
   }
+  @include inner-style-5px;
   &__grid-box {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 5px;
-    width: 100%;
+    @include grid-style;
+  }
+  .item {
+    display: none;
+    &.block {
+      display: block;
+    }
+    &__link {
+      display: block;
+    }
+    &__img {
+      @include item-img-style;
+    }
+    &__info {
+      @include item-info-style;
+    }
+    @include item-color-style;
   }
 }
-.item {
-  display: none;
-  &.block {
-    display: block;
-  }
-  &__link {
-    display: block;
-  }
-  &__img {
-    width: 100%;
-    border-radius: 10px;
-  }
-  &__info {
-    display: flex;
-    justify-content: space-between;
-    padding: 0.5rem 0.5rem 0 0.5rem;
-    font-weight: 600;
-    &--name {
-      margin: 0 0 0.5em 0;
+@include laptop {
+  .glasses {
+    &__grid-box {
+      grid-template-columns: repeat(2, 1fr);
     }
   }
-  &-color {
-    display: inline-block;
-    width: 12px;
-    height: 12px;
-    padding-bottom: 2.5rem;
-  }
-  &__color {
-    padding: 0 0.5rem;
-    &--img {
-      width: 100%;
-      border: 1px solid #eee;
-      border-radius: 50%;
+}
+@include mobile {
+  .glasses {
+    &__grid-box {
+      grid-template-columns: repeat(1, 1fr);
     }
   }
 }

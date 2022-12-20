@@ -2,9 +2,9 @@
   const mainInfo = [
     {
       type: 'normal',
-      scrollHeight: document.querySelector('.main-banner').offsetHeight,
+      scrollHeight: document.querySelector('.main__banner').offsetHeight,
       objs: {
-        container: document.querySelector('.main-banner')
+        container: document.querySelector('.main__banner')
       }
     },
     {
@@ -87,15 +87,15 @@
     let currentYOffset = yOffset;
     let scrollHeight = document.body.offsetHeight;
     let scrollRatio = currentYOffset / scrollHeight;
-
     if (scrollRatio >= 0.1) {
       mainInfo[1].objs.container.style.marginLeft = `-${calcValues(mainInfo[1].value.marginRight, currentYOffset)}%`
     }
     if (scrollRatio >= 0.83) {
+      //가로 스크롤이 끝난후 footer 위에 컨텐츠를 위치 시키기 위한 코드
       let totalHeight = 0;
-    for (let i = 0; i < sceneInfo.length; i++) {
-      totalHeight += sceneInfo[i].scrollHeight;
-    }
+      for (let i = 0; i < sceneInfo.length; i++) {
+        totalHeight += sceneInfo[i].scrollHeight;
+      }
       sceneInfo[0].objs.container.style.paddingTop = `${0.76 * totalHeight}px`;
       document.querySelector('.main').classList.remove('fixed');
       document.querySelector('.main').classList.add('static');
